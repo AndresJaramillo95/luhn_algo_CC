@@ -5,4 +5,4 @@
 
 
 ## HOW TO TEST:
-Run `credit.py` and follow instructions:
+1. Run `credit.py` file and follow printed instructions.
